@@ -1,0 +1,28 @@
+:root {
+    --color-primary: #8dbbff;
+    --color-secondary:#272727;
+    --color-light: #ffffff;
+    --color-dark: #161616;
+}
+
+.light-theme {
+    --bg: var(--color-primary);
+    --fontColor: var(--color-dark);
+    --btnBg: var(--color-dark);
+}
+
+.dark-theme {
+    --bg: var(--color-secondary);
+    --fontColor: var(--color-primary);
+    --btnBg: var(--color-light);
+}
+
+body {
+    background: var(--bg);
+    color: var(--fontColor);
+    font-family: Arial, sans-serif;
+}
+
+#toggleTheme {
+    cursor: pointer;
+}
