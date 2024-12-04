@@ -3,7 +3,7 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
 
 $(function () {
     // Fetch the markdown file
-    $.get("/assets/content.md", function (markdownContent) {
+    $.get("assets/content.md", function (markdownContent) {
         // Convert markdown to HTML using marked.js
         var htmlContent = marked.parse(markdownContent);
 
