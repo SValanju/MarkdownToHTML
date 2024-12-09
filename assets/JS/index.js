@@ -21,13 +21,13 @@ $(function () {
 function Init() {
     $("#toggleTheme").click(function () {
         let icon = $("#toggleTheme i");
-        let isDarkTheme = icon.hasClass("bi-lightbulb-off-fill");
+        let isDarkTheme = icon.hasClass("bi-moon-stars-fill");
 
         if (isDarkTheme) {
-            icon.removeClass("bi-lightbulb-off-fill").addClass("bi-lightbulb-fill");
+            icon.removeClass("bi-moon-stars-fill").addClass("bi-brightness-high-fill");
             $(this).attr("data-bs-title", "Light Theme");
         } else {
-            icon.removeClass("bi-lightbulb-fill").addClass("bi-lightbulb-off-fill");
+            icon.removeClass("bi-brightness-high-fill").addClass("bi-moon-stars-fill");
             $(this).attr("data-bs-title", "Dark Theme");
         }
 
