@@ -8,6 +8,6 @@
 
 *Also, I had worked on different technologies like, Angular, TypeScript, MySQL, Postgres, Azure DevOps, Entity Framework, Github, Android Studio, Java, a Firebase and more.*
 
-*I’m always ready to explore and learn new tools and technologies. I look forward to collaborating with all of you and contributing to our projects at Tecnimont.*
+*Currently, I'm working on Civil Master Data application under Kalpana ma'am and I look forward to collaborating with all of you and contributing to our projects at Tecnimont.*
 
 ***Thank you!***
