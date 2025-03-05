@@ -1,6 +1,6 @@
 ### Good Afternoon, everyone!
 \
-*My name is **Sameer Valanju**, and I joined Tecnimont just two months ago. And a, I’m very excited to be part of the team and contribute my experience.*
+*My name is **Sameer Valanju**, and I joined Tecnimont just [TIMESTAMP] ago. And a, I’m very excited to be part of the team and contribute my experience.*
 
 *I have over 5 years of experience in the tech industry. Before joining Tecnimont, I worked as a .NET Developer, where my role was to design and develop scalable web applications using .NET MVC and SQL Server for the backend.*
 
