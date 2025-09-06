@@ -1,13 +1,15 @@
-### Good Afternoon, everyone!
+### Hello, everyone!
 \
-*My name is **Sameer Valanju**, and I joined Tecnimont just [TIMESTAMP] ago. And a, I’m very excited to be part of the team and contribute my experience.*
+*My name is **Sameer Valanju**, and I am a **Senior Dotnet Developer** currently working in Tecnimont as an Engineer. (I joined Tecnimont just [TIMESTAMP] ago.)*
 
-*I have over 5 years of experience in the tech industry. Before joining Tecnimont, I worked as a .NET Developer, where my role was to design and develop scalable web applications using .NET MVC and SQL Server for the backend.*
+*I have over 5 years of experience in the tech industry. Before joining Tecnimont, I worked as a .NET Developer, where my role was to design and develop scalable web applications using .NET ecosystem and SQL Server, Postgres for backend.*
 
-*And a, prior to that, I was working as a Technical Support Engineer where I spent almost over 2 yrs providing support for production issues, patch deployment activities, and maintaning app servers.*
+*Also, I had worked on different technologies like, Angular, TypeScript, MySQL, Postgres, Azure DevOps, Entity Framework, Github, Python, Android Studio, Java, a Firebase and more.*
 
-*Also, I had worked on different technologies like, Angular, TypeScript, MySQL, Postgres, Azure DevOps, Entity Framework, Github, Android Studio, Java, a Firebase and more.*
+*Currently, In Tecnimont, I am responsible for designing & developing scalable enterprise-grade software/web apps tailored for engineering disciplines such as Civil & Piping. I develop solutions that streamline workflows and integrate with third-party platforms like **Tekla Structures, Autodesk** and other engineering applications into our internal systems, enabling better collaboration and automation across engineering processes.*
 
-*Currently, I'm working on Civil Master Data application under Kalpana ma'am and I look forward to collaborating with all of you and contributing to our projects at Tecnimont.*
+*I am also a core team member of the AI Integration team at Tecnimont, where we identify AI use cases and develop AI Agents and MCP servers to automate engineering tasks and operations.*
+
+*With a strong foundation in the .NET ecosystem (ASP.NET Core, C#, Entity Framework), along with front-end technologies, I aim to deliver scalable, user-centric applications that support complex engineering operations, data visualization, and project lifecycle management.*
 
 ***Thank you!***
